@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Coivd-19 Nepal
+Plugin Name: Covid-19 Nepal
 Plugin URI: https://wordpress.org/plugins/covid-19-nepal
 Description: The plugin is simple plugin that is targeted to the websites in Nepali languages to display the statistics of COVID-19 cases in Nepal and the world.  
 Version: 1.0.0
