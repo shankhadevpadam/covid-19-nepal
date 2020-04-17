@@ -14,7 +14,7 @@ Users can simply install the plugin and use the shortcode to display the data on
 
 If you like the plugin , please share and rate the plugin. This will keep us motivated to bring useful functions to the wordpress community. You might also like our another plugin "Nepali Post Date" to display date in Nepali.
 
-We used https://github.com/javieraviles/covidAPI github repo for our api data which is free of use.
+We used [https://github.com/javieraviles/covidAPI](https://github.com/javieraviles/covidAPI) github repo for our api data which is free of use.
 
 == Features ==
 
