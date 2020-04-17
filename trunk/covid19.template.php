@@ -59,8 +59,5 @@
             </li>
          </ul>
       </div>
-      <div class="covid-powered">
-         Designed By : <a href="https://itsadim.com" target="_blank">Adim</a> and Developed By : <a href="https://padamshankhadev.com" target="_blank">Padam</a>
-      </div>
    </div>
 </div>

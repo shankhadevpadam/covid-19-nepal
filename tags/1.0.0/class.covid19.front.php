@@ -32,15 +32,11 @@ class Covid19_Frontend
     public function covid19_script_style()
     {
          wp_enqueue_style( 'covid19_nepal_style',  COVID19NEPAL_PLUGIN_URL . 'css/covid19-nepal.css' );
-
-         wp_register_script( 'covid19_nepal_script', COVID19NEPAL_PLUGIN_URL . 'js/covid19-nepal.js', array('jquery'), '1.0', true );
- 
-        wp_enqueue_script('covid19_nepal_script');
+         wp_enqueue_script( 'covid19_nepal_script', COVID19NEPAL_PLUGIN_URL . 'js/covid19-nepal.js', array('jquery'), false, true );
     }
 
     public function covid19_shortcode()
     {
-
         include 'covid19.template.php';
     }
 
