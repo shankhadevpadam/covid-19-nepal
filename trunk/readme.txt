@@ -19,7 +19,7 @@ If you like the plugin , please share and rate the plugin. This will keep us mot
 
 * Display covid-19 live data of Nepal and the World.
 * Built for Nepali audience.
-* We used [https://corona.lmao.ninja/](https://corona.lmao.ninja/) for our api data which is free of use.
+* Privacy link of api is [https://github.com/NovelCOVID/API/blob/master/privacy.md](https://github.com/NovelCOVID/API/blob/master/privacy.md).
 * Data can be updated after updated in [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
 
 == Screenshots ==
